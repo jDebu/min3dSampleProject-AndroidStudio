@@ -104,7 +104,7 @@ public class ObjParser extends AParser implements IParser {
 					normal.z = Float.parseFloat(parts.nextToken());
 					normals.add(normal);
 				} else if (type.equals(MATERIAL_LIB)) {
-					readMaterialLib(parts.nextToken());
+					//readMaterialLib(parts.nextToken());
 				} else if (type.equals(USE_MATERIAL)) {
 					currentMaterialKey = parts.nextToken();
 				} else if (type.equals(OBJECT)) {

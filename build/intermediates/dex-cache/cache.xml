@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72811f0fb33f5ee8857b91114d1b9acc7b48c400">
+        <dex dex="/Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/pre-dexed/debug/classes-5bdf722b3230de2fe02fa07404d5158f5a62e7cb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:2:1-48:12
+	xmlns:android
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:3:7-37
+	android:versionName
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:5:7-40
+	android:versionCode
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:4:7-31
+		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:8:5-46:15
+MERGED from [min3dSampleProject-AndroidStudio:min3d:unspecified] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [min3dSampleProject-AndroidStudio:min3d:unspecified] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from [min3dSampleProject-AndroidStudio:min3d:unspecified] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:8:48-80
+	android:icon
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:8:18-47
+	android:theme
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:9:9-67
+activity#min3d.sampleProject1.SplashActivity
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:10:9-15:20
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:10:50-82
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:10:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:13:27-74
+activity#min3d.sampleProject1.ExampleRotatingPlanets
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:17:9-102
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:17:58-90
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:17:19-57
+activity#min3d.sampleProject1.ExampleMostMinimal
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:18:9-98
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:18:54-86
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:18:19-53
+activity#min3d.sampleProject1.ExampleVertexColors
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:19:9-99
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:19:55-87
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:19:19-54
+activity#min3d.sampleProject1.ExampleTextures
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:20:9-95
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:20:51-83
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:20:19-50
+activity#min3d.sampleProject1.ExampleVerticesVariations
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:21:9-105
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:21:61-93
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:21:19-60
+activity#min3d.sampleProject1.ExampleRenderType
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:22:9-97
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:22:53-85
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:22:19-52
+activity#min3d.sampleProject1.ExampleCamera
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:23:9-93
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:23:49-81
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:23:19-48
+activity#min3d.sampleProject1.ExampleMultipleLights
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:24:9-101
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:24:57-89
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:24:19-56
+activity#min3d.sampleProject1.ExampleAnimatingVertices
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:25:9-104
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:25:60-92
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:25:19-59
+activity#min3d.sampleProject1.ExampleSubsetOfFaces
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:26:9-100
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:26:56-88
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:26:19-55
+activity#min3d.sampleProject1.ExampleAssigningTexturesDynamically
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:27:9-115
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:27:71-103
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:27:19-70
+activity#min3d.sampleProject1.ExampleTextureWrap
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:28:3-92
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:28:48-80
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:28:13-47
+activity#min3d.sampleProject1.ExampleMipMap
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:29:9-93
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:29:49-81
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:29:19-48
+activity#min3d.sampleProject1.ExampleMultiTexture
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:30:9-99
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:30:55-87
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:30:19-54
+activity#min3d.sampleProject1.ExampleTextureOffset
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:31:9-100
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:31:56-88
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:31:19-55
+activity#min3d.sampleProject1.ExampleFog
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:32:9-90
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:32:46-78
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:32:19-45
+activity#min3d.sampleProject1.ExampleTransparentGlSurface
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:33:9-167
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:33:63-95
+	android:theme
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:33:96-155
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:33:19-62
+activity#min3d.sampleProject1.ExampleLoadObjFile
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:34:6-95
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:34:51-83
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:34:16-50
+activity#min3d.sampleProject1.ExampleLoadObjFileMultiple
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:35:3-67
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:35:13-55
+activity#min3d.sampleProject1.ExampleLoad3DSFile
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:36:3-59
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:36:13-47
+activity#min3d.sampleProject1.ExampleLoadMD2File
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:37:3-59
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:37:13-47
+activity#min3d.sampleProject1.ExampleInsideLayout
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:38:9-99
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:38:55-87
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:38:19-54
+activity#min3d.sampleProject1.ExampleKeyframeAnimation
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:39:3-65
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:39:13-53
+activity#min3d.sampleProject1.ExampleAccelerometer
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:40:3-60
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:40:13-48
+activity#min3d.sampleProject1.ScratchActivity
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:43:9-95
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:43:51-83
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:43:19-50
+activity#min3d.sampleProject1.ExampleLightProperties
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:9-102
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:58-90
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:19-57
+uses-sdk
+INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [min3dSampleProject-AndroidStudio:min3d:unspecified] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
