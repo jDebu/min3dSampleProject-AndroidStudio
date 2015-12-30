@@ -66,7 +66,8 @@ public class SplashActivity extends ListActivity
 			new ItemVo("Load model from .3ds file", ExampleLoad3DSFile.class, "ExampleLoad3DSFile.java"),
 			new ItemVo("Load animated .md2 file", ExampleLoadMD2File.class, "ExampleLoadMD2File.java"),
 			new ItemVo("Keyframe animation", ExampleKeyframeAnimation.class, "ExampleKeyframeAnimation.java"),
-			new ItemVo("Using the accelerometer", ExampleAccelerometer.class, "ExampleAccelerometer.java")
+			new ItemVo("Using the accelerometer", ExampleAccelerometer.class, "ExampleAccelerometer.java"),
+			new ItemVo("Android Robot 3D",AndroidRobot3DView.class,"AndroidRobot3DView.java")
 	};
 	
     @Override

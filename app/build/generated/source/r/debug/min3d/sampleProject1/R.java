@@ -1602,17 +1602,24 @@ containing a value of this type.
         public static final int maqjpg=0x7f020050;
         public static final int monster=0x7f020051;
         public static final int moon=0x7f020052;
-        public static final int notification_template_icon_bg=0x7f02005d;
+        public static final int notification_template_icon_bg=0x7f020064;
         public static final int ogrobase=0x7f020053;
         public static final int revenant=0x7f020054;
         public static final int sam_0811__texturaprueba=0x7f020055;
-        public static final int stonetexture=0x7f020056;
-        public static final int uglysquares=0x7f020057;
-        public static final int white_with_alpha_hole=0x7f020058;
-        public static final int wood=0x7f020059;
-        public static final int wood_back=0x7f02005a;
-        public static final int wood_left=0x7f02005b;
-        public static final int wood_right=0x7f02005c;
+        public static final int squared_robot_antenna=0x7f020056;
+        public static final int squared_robot_arm=0x7f020057;
+        public static final int squared_robot_body=0x7f020058;
+        public static final int squared_robot_body_business=0x7f020059;
+        public static final int squared_robot_foot=0x7f02005a;
+        public static final int squared_robot_head=0x7f02005b;
+        public static final int squared_robot_head_business=0x7f02005c;
+        public static final int stonetexture=0x7f02005d;
+        public static final int uglysquares=0x7f02005e;
+        public static final int white_with_alpha_hole=0x7f02005f;
+        public static final int wood=0x7f020060;
+        public static final int wood_back=0x7f020061;
+        public static final int wood_left=0x7f020062;
+        public static final int wood_right=0x7f020063;
     }
     public static final class id {
         public static final int CheckBox01=0x7f0c0058;
@@ -1787,10 +1794,10 @@ containing a value of this type.
         public static final int camarocana_mtl=0x7f050003;
         public static final int cubo_obj=0x7f050004;
         public static final int female02_obj=0x7f050005;
-        public static final int m_b_short_standar_corta_cadera_11_mtl=0x7f050006;
-        public static final int m_b_short_standar_corta_cadera_11_obj=0x7f050007;
-        public static final int monster_high=0x7f050008;
-        public static final int ogro=0x7f050009;
+        public static final int m_b_short_standar_corta_cadera_11_obj=0x7f050006;
+        public static final int monster_high=0x7f050007;
+        public static final int ogro=0x7f050008;
+        public static final int squared_robot_3ds=0x7f050009;
         public static final int tela_obj=0x7f05000a;
         public static final int tree_obj=0x7f05000b;
     }

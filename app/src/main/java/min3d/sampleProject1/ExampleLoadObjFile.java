@@ -1,6 +1,7 @@
 package min3d.sampleProject1;
 
 import android.graphics.Bitmap;
+import android.util.Log;
 
 import min3d.Shared;
 import min3d.Utils;
@@ -31,22 +32,34 @@ public class ExampleLoadObjFile extends RendererActivity {
 		parser.parse();
 
 		objModel = parser.getParsedObject();
-		objModel.scale().x = objModel.scale().y = objModel.scale().z = .75f;
-
-		Bitmap b = Utils.makeBitmapFromResourceId(this, R.drawable.sam_0811__texturaprueba);
-		Shared.textureManager().addTextureId(b, "sam_0811__texturaprueba", false);
-		b.recycle();
-		texture = new TextureVo("sam_0811__texturaprueba");
-		objModel.textures().add(texture);
-
-
+		objModel.scale().x = objModel.scale().y = objModel.scale().z = 2.0f;
 		scene.addChild(objModel);
+
+
+		Bitmap b = Utils.makeBitmapFromResourceId(R.drawable.sam_0811__texturaprueba);
+		Shared.textureManager().addTextureId(b, "sam_0811__texturaprueba");
+		b.recycle();
+		//texture = new TextureVo("sam_0811__texturaprueba");
+		//objModel.textures().clear();
+		//objModel.textures().add(texture);
+
+		loadAllTextures();
+
 		count=0;
+	}
+
+	private void loadAllTextures() {
+		int numChildren = objModel.numChildren();
+		Log.e("NumHijos:", numChildren + "");
+		objModel.getChildAt(0).textures().clear();
+		objModel.getChildAt(0).pointSmoothing(true);
+		objModel.getChildAt(0).doubleSidedEnabled(true);
+		objModel.getChildAt(0).textures().addById("sam_0811__texturaprueba");
 	}
 
 	@Override
 	public void updateScene() {
-		count++;
+		/*count++;
 		// Assign a different texture to the two objects
 		// every second or so
 		if (count % 240 == 0) {
@@ -60,7 +73,7 @@ public class ExampleLoadObjFile extends RendererActivity {
 		}
 		else if (count % 240 == 180) {
 			objModel.textures().addReplace(texture);
-		}
+		}*/
 
 		objModel.rotation().x++;
 		objModel.rotation().z++;

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:2:1-48:12
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:2:1-49:12
 	xmlns:android
 		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:2:11-69
 	package
@@ -12,7 +12,7 @@ ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/Androi
 		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:8:5-46:15
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:8:5-47:15
 MERGED from [min3dSampleProject-AndroidStudio:min3d:unspecified] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
@@ -178,18 +178,24 @@ activity#min3d.sampleProject1.ExampleAccelerometer
 ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:40:3-60
 	android:name
 		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:40:13-48
+activity#min3d.sampleProject1.AndroidRobot3DView
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:41:9-98
+	android:label
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:41:54-86
+	android:name
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:41:19-53
 activity#min3d.sampleProject1.ScratchActivity
-ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:43:9-95
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:9-95
 	android:label
-		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:43:51-83
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:51-83
 	android:name
-		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:43:19-50
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:19-50
 activity#min3d.sampleProject1.ExampleLightProperties
-ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:9-102
+ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:45:9-102
 	android:label
-		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:58-90
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:45:58-90
 	android:name
-		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:44:19-57
+		ADDED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml:45:19-57
 uses-sdk
 INJECTED from /Users/Glup/post/min3dSampleProject-AndroidStudio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [min3dSampleProject-AndroidStudio:min3d:unspecified] /Users/Glup/post/min3dSampleProject-AndroidStudio/app/build/intermediates/exploded-aar/min3dSampleProject-AndroidStudio/min3d/unspecified/AndroidManifest.xml:7:5-9:41

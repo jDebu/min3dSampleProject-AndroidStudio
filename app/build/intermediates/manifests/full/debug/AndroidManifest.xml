@@ -86,6 +86,9 @@
             android:label="@string/app_name" />
         <activity android:name="min3d.sampleProject1.ExampleKeyframeAnimation" />
         <activity android:name="min3d.sampleProject1.ExampleAccelerometer" />
+        <activity
+            android:name="min3d.sampleProject1.AndroidRobot3DView"
+            android:label="Android Robot 3D" />
 
         <!-- Debugging-related activities: -->
         <activity
